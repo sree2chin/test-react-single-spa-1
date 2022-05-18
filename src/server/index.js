@@ -33,9 +33,6 @@ const path = require('path');
 //   return reply.sendFile('./public/chin-test.js') 
 // })
 
-// fastify.get('/another/path', function (req, reply) {
-//   return reply.sendFile('myHtml.html') // serving path.join(__dirname, 'public', 'myHtml.html') directly
-// })
 
 
 const express = require('express')
